@@ -1,3 +1,5 @@
+# LangChain搭配streamlit範例
+# 程式執行指令 `streamlit run chat_app.py``
 import streamlit as st
 from langchain.chat_models import init_chat_model
 from langchain_core.messages import HumanMessage
