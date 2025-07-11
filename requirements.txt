@@ -5,3 +5,5 @@ langchain-community
 chromadb
 python-dotenv
 streamlit
+yfinance
+ta
