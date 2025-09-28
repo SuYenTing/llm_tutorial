@@ -14,6 +14,11 @@
 uv sync
 ```
 
+建立`.env`檔案，裡面輸入以下內容:
+```
+OPENAI_API_KEY=[你的OpenAI API Key]
+```
+
 ## 教學講義
 * [生成式AI應用於財務投資-1(HackMD講義)](https://hackmd.io/@suyenting/r1SEpdUGll)
 * [ChatGPT使用方法與範例分享(HackMD講義)](https://hackmd.io/@suyenting/SyHUGS9Qxe)
