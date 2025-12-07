@@ -59,3 +59,6 @@ OPENAI_API_KEY=[你的OpenAI API Key]
     * SQL Agent(LangCahin + SQLDatabaseToolkit)使用方式介紹
     * HTML語法介紹
     * 網路爬蟲介紹
+* [生成式AI應用於財務投資-10(HackMD講義)](https://hackmd.io/@suyenting/SyK1YRn0xl)
+    * Selenium爬蟲
+    * 自動化排程
